@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Text_Utils_React_App
 =======
 # Getting Started with Create React App
